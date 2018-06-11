@@ -1,0 +1,6 @@
+[submodule "woodpecker-admin"]
+	path = woodpecker-admin
+	url = git@github.com-owen:owen-q/woodpecker-admin.git
+[submodule "woodpecker-agent"]
+	path = woodpecker-agent
+	url = git@github.com-owen:owen-q/woodpecker-agent.git
